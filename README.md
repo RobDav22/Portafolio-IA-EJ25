@@ -1,7 +1,0 @@
-[Certificado 1 de kaggle](Intro_to_Programming.pdf)
-[Certificado 2 de kaggle](Python.pdf)
-[Certificado 3 de kaggle](Intro_to_Machine_Learning.pdf)
-[Certificado 4 de kaggle](Pandas.pdf)
-[Certificado 5 de kaggle](Intermediate_Machine_Learning.pdf)
-[Actividad 07 Laboratorio de repaso](Actividad_07__Laboratorio_de_repaso.pdf)
-[Actividad 08 Laboratorio de álgebra lineal](Actividad_8_Laboratotio_Algebra_Lineal.pdf)
