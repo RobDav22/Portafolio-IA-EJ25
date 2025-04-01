@@ -1,22 +1,22 @@
 #Portafolio-IA-EJ25
 
-##Actividades
--[Actividad 1: Crear cuenta de Kaggle](https://www.kaggle.com/robertodavilagzz)
--[Actividad 2: Cuestionario VARK]
--[Actividad 3: Python for Data Science IBM](IBM_PY0101EN_Certificate_Cognitive_Class.pdf)
--[Actividad 4: Cuenta de Github](https://github.com/RobDav22)
--[Actividad 5: Portafolio de evidencias](https://github.com/RobDav22/Portafolio-IA-EJ25)
--[Actividad 6: Determinantes de Matrices](Actividad_6_Determinantes_de_matrices.pdf)
--[Actividad 7: Laboratorio de repaso de Probabilidad y Estadística](Actividad_07__Laboratorio_de_repaso.pdf)
--[Actividad 8: Laboratorio de Algebra Lineal](Actividad_8_Laboratotio_Algebra_Lineal.pdf)
--[Actividad 9: Programando Regresion Lineal en Python]()
--[Actividad 10: Programando Regresion Lineal Multiple en Python]
--[Actividad 11: Programando Regresion Logistica en Python]
--[Actividad 12: Programando Arbol de Decisiom en Python]
--[Actividad 13: Programando Random Forest en Python]
--[Actividad 14: Programando K-Nearest-Neighbor en Python](K-NN/K_Nearest_Neighbor.pdf)
+## Actividades
+- [Actividad 1: Crear cuenta de Kaggle](https://www.kaggle.com/robertodavilagzz)
+- [Actividad 2: Cuestionario VARK]
+- [Actividad 3: Python for Data Science IBM](IBM_PY0101EN_Certificate_Cognitive_Class.pdf)
+- [Actividad 4: Cuenta de Github](https://github.com/RobDav22)
+- [Actividad 5: Portafolio de evidencias](https://github.com/RobDav22/Portafolio-IA-EJ25)
+- [Actividad 6: Determinantes de Matrices](Actividad_6_Determinantes_de_matrices.pdf)
+- [Actividad 7: Laboratorio de repaso de Probabilidad y Estadística](Actividad_07__Laboratorio_de_repaso.pdf)
+- [Actividad 8: Laboratorio de Algebra Lineal](Actividad_8_Laboratotio_Algebra_Lineal.pdf)
+- [Actividad 9: Programando Regresion Lineal en Python]()
+- [Actividad 10: Programando Regresion Lineal Multiple en Python]
+- [Actividad 11: Programando Regresion Logistica en Python]
+- [Actividad 12: Programando Arbol de Decisiom en Python]
+- [Actividad 13: Programando Random Forest en Python]
+- [Actividad 14: Programando K-Nearest-Neighbor en Python](K-NN/K_Nearest_Neighbor.pdf)
 
-##Certificados
+## Certificados
 [Certificado 1: Introducción a la Programación en Python](Intro_to_Programming.pdf)
 [Certificado 2: Fundamentos de Python](Python.pdf)
 [Certificado 3: Introducción al Aprendizaje Automático](Intro_to_Machine_Learning.pdf)
