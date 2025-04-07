@@ -1,4 +1,4 @@
-#Portafolio-IA-EJ25
+# Portafolio-IA-EJ25
 
 ## Actividades
 - [Actividad 1: Crear cuenta de Kaggle](https://www.kaggle.com/robertodavilagzz)
@@ -17,13 +17,14 @@
 - [Actividad 14: Programando K-Nearest-Neighbor en Python](K-NN/K_Nearest_Neighbor.pdf)
 
 ## Certificados
-[Certificado 1: Introducción a la Programación en Python](Intro_to_Programming.pdf)
-[Certificado 2: Fundamentos de Python](Python.pdf)
-[Certificado 3: Introducción al Aprendizaje Automático](Intro_to_Machine_Learning.pdf)
-[Certificado 4: Pandas](Pandas.pdf)
-[Certificado 5: Aprendizaje Automático Intermedio](Intermediate_Machine_Learning.pdf)
-[Certificado 6: Visualización de Datos](Data_Visualization.pdf)
-[Certificado 7: Ingeniería de Características](Feature_Engineering.pdf)
-[Certificado 8: Introducción a SQL]()
-[Certificado 9: SQL Avanzado](Advanced_SQL.pdf)
-[Certificado 10: Introducción al Aprendizaje Profundo](Intro_to_Deep_Learning.pdf)
+- [Certificado 1: Introducción a la Programación en Python](Intro_to_Programming.pdf)
+- [Certificado 2: Fundamentos de Python](Python.pdf)
+- [Certificado 3: Introducción al Aprendizaje Automático](Intro_to_Machine_Learning.pdf)
+- [Certificado 4: Pandas](Pandas.pdf)
+- [Certificado 5: Aprendizaje Automático Intermedio](Intermediate_Machine_Learning.pdf)
+- [Certificado 6: Visualización de Datos](Data_Visualization.pdf)
+- [Certificado 7: Ingeniería de Características](Feature_Engineering.pdf)
+- [Certificado 8: Introducción a SQL]()
+- [Certificado 9: SQL Avanzado](Advanced_SQL.pdf)
+- [Certificado 10: Introducción al Aprendizaje Profundo](Intro_to_Deep_Learning.pdf)
+- [Certificado 11: Vision Computacional]()
