@@ -9,11 +9,11 @@
 - [Actividad 6: Determinantes de Matrices](Actividad_6_Determinantes_de_matrices.pdf)
 - [Actividad 7: Laboratorio de repaso de Probabilidad y Estadística](Actividad_07__Laboratorio_de_repaso.pdf)
 - [Actividad 8: Laboratorio de Algebra Lineal](Actividad_8_Laboratotio_Algebra_Lineal.pdf)
-- [Actividad 9: Programando Regresion Lineal en Python]()
-- [Actividad 10: Programando Regresion Lineal Multiple en Python]
-- [Actividad 11: Programando Regresion Logistica en Python]
-- [Actividad 12: Programando Arbol de Decisiom en Python]
-- [Actividad 13: Programando Random Forest en Python]
+- [Actividad 9: Programando Regresion Lineal en Python](RegresionLineal/Regresion_Lineal.pdf)
+- [Actividad 10: Programando Regresion Lineal Multiple en Python](RegresionLinealMultiple/Regresion_Lineal_Multiple.pdf)
+- [Actividad 11: Programando Regresion Logistica en Python](RegresionLogistica/Regresion_Logistica.pdf)
+- [Actividad 12: Programando Arbol de Decision en Python](ArbolDeDecision/Arbol_de_Decision.pdf)
+- [Actividad 13: Programando Random Forest en Python](RandomForest/Random_Forest.pdf)
 - [Actividad 14: Programando K-Nearest-Neighbor en Python](K-NN/K_Nearest_Neighbor.pdf)
 
 ## Certificados
@@ -24,7 +24,7 @@
 - [Certificado 5: Aprendizaje Automático Intermedio](Intermediate_Machine_Learning.pdf)
 - [Certificado 6: Visualización de Datos](Data_Visualization.pdf)
 - [Certificado 7: Ingeniería de Características](Feature_Engineering.pdf)
-- [Certificado 8: Introducción a SQL]()
+- [Certificado 8: Introducción a SQL](Intro_to_SQL.pdf)
 - [Certificado 9: SQL Avanzado](Advanced_SQL.pdf)
 - [Certificado 10: Introducción al Aprendizaje Profundo](Intro_to_Deep_Learning.pdf)
-- [Certificado 11: Vision Computacional]()
+- [Certificado 11: Vision Computacional](Computer_Vision.pdf)
