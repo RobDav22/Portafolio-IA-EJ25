@@ -2,7 +2,7 @@
 
 ## Actividades
 - [Actividad 1: Crear cuenta de Kaggle](https://www.kaggle.com/robertodavilagzz)
-- [Actividad 2: Cuestionario VARK]
+- [Actividad 2: Cuestionario VARK](reporte_2063584.pdf)
 - [Actividad 3: Python for Data Science IBM](IBM_PY0101EN_Certificate_Cognitive_Class.pdf)
 - [Actividad 4: Cuenta de Github](https://github.com/RobDav22)
 - [Actividad 5: Portafolio de evidencias](https://github.com/RobDav22/Portafolio-IA-EJ25)
@@ -32,3 +32,5 @@
 - [Certificado 13: Limpieza de Datos](Data_Cleaning.pdf)
 - [Certificado 14: Introducción a la Ética en Inteligencia Artificial](Intro_to_AI_Ethics.pdf)
 - [Certificado 15: Análisis Geoespacial](Geospatial_Analysis.pdf)
+- [Certificado 16: Explicabilidad del Aprendizaje Automático](Machine_Learning_Explainability.pdf)
+- [Certificado 17: Introducción a la IA en Juegos y Aprendizaje por Refuerzo](Intro_to_Game_AI_and_Reinforcement_Learning.pdf)
