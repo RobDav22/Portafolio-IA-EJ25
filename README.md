@@ -28,3 +28,7 @@
 - [Certificado 9: SQL Avanzado](Advanced_SQL.pdf)
 - [Certificado 10: Introducción al Aprendizaje Profundo](Intro_to_Deep_Learning.pdf)
 - [Certificado 11: Vision Computacional](Computer_Vision.pdf)
+- [Certificado 12: Series de Tiempo](Time_Series.pdf)
+- [Certificado 13: Limpieza de Datos](Data_Cleaning.pdf)
+- [Certificado 14: Introducción a la Ética en Inteligencia Artificial](Intro_to_AI_Ethics.pdf)
+- [Certificado 15: Análisis Geoespacial](Geospatial_Analysis.pdf)
